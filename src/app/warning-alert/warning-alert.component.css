@@ -1,0 +1,13 @@
+div {
+	height: 75px;
+	width: 100%;
+	text-align: center;
+	border: solid;
+	border-radius: 20px;
+	border-width: 3px;
+	border-color: #e67615;
+}
+
+h3 {
+	color: #e67615;
+}
